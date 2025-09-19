@@ -16,4 +16,24 @@
 
 ### 🖼️ Diagram:
 
-![Architecture Diagram](./c6cb2ebb-9527-4b54-8db7-67e18b881ade.png)
+
+<img width="1115" height="416" alt="image" src="https://github.com/user-attachments/assets/7bf56833-e04e-4210-88aa-f23a2c135a2b" />
+
+🎯Benefits of This Architecture 
+=
+• Serverless – no servers to manage.
+
+• Event-driven – reacts in real time to file uploads.
+
+• Scalable – DynamoDB scales automatically.
+
+• Extensible – you can add file processing logic in Lambda (e.g., virus scan, metadata 
+extraction). 
+
+
+Prerequisites 
+=
+• AWS account with IAM permissions to create S3, Lambda, and DynamoDB resources.
+
+• Basic knowledge of Python and AWS Lambda. 
+
